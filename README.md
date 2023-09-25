@@ -8,7 +8,7 @@
 
 ## About
 
-This project was developed as part of the course Computer Organization and Components at KTH. A code skeleton was provided, and most of our changes are in the files ```mipslabmain.c``` and ```pong.c```
+This project was developed jointly as part of the course Computer Organization and Components at KTH. A code skeleton was provided, and most of our changes are in the files ```mipslabmain.c``` and ```pong.c```
 
 The point of the project was to write directly to the hardware at a low level and not use built in libraries. 
 
